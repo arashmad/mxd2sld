@@ -1,0 +1,9 @@
+.vscode/
+*.msd
+*.log
+*.logs
+*.pyc
+*.txt
+*.zip
+*.rar
+?)
